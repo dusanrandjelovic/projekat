@@ -42,7 +42,7 @@ padding-right: 8%;
 }
 
 main {
-  background: linear-gradient(rgba(0, 0, 0, 0.6), rgba(0, 0, 0, 0.6)), url("../slike/bggallery.jpg");
+  background: linear-gradient(rgba(0, 0, 0, 0.6), rgba(0, 0, 0, 0.6)), url("bggallery.jpg");
   background-size: cover;
   width: 100%;
   height: auto;
@@ -121,7 +121,7 @@ main .text h1 {
   color: white;
 }
 #narudzbenica {
-  background: url("../slike/bgabout2.jpg");
+  background: url("bgabout2.jpg");
   background-size: cover;
   width: 100%;
   background-position: center;
@@ -166,7 +166,7 @@ main .text h1 {
 }
 
 footer {
-  background-image: linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)), url("../slike/bg6.jpg");
+  background-image: linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)), url("bg6.jpg");
   background-size: cover;
   width: 100%;
   height: auto;
