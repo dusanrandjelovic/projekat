@@ -42,7 +42,7 @@ padding-right: 8%;
 }
 
 main {
-  background: linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)), url("../slike/bgkontakt.jpg");
+  background: linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)), url("bgkontakt.jpg");
   background-size: cover;
   width: 100%;
   height: auto;
@@ -89,7 +89,7 @@ main .text h1 {
 }
 
 #kontakt {
-  background-image: url("../slike/bgabout2.jpg");
+  background-image: url("bgabout2.jpg");
   background-size: cover;
   width: 100%;
   height: auto;
@@ -155,7 +155,7 @@ iframe {
 }
 
 footer {
-  background-image: linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)), url("../slike/bg6.jpg");
+  background-image: linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)), url("bg6.jpg");
   background-size: cover;
   width: 100%;
   height: auto;
