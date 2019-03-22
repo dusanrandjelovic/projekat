@@ -11,7 +11,7 @@ img {
   height: auto;
 }
 main {
-  background-image: linear-gradient(rgba(0, 0, 0, 0.2), rgba(0, 0, 0, 0.2)), url("../slike/bg1.jpg");
+  background-image: linear-gradient(rgba(0, 0, 0, 0.2), rgba(0, 0, 0, 0.2)), url("bg1.jpg");
   background-size: cover;
   width: 100%;
   height: auto;
@@ -98,7 +98,7 @@ main .text a, #drugideo a, #trecideo a, #cetvrtideo a {
 }
 
 #drugideo {
-  background-image: linear-gradient(rgba(0, 0, 0, 0.3), rgba(0, 0, 0, 0.3)), url("../slike/bg2.jpg");
+  background-image: linear-gradient(rgba(0, 0, 0, 0.3), rgba(0, 0, 0, 0.3)), url("bg2.jpg");
   background-size: cover;
   width: 100%;
   height: auto;
@@ -130,7 +130,7 @@ h2 {
 }
 
 #trecideo {
-  background-image: linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)), url("../slike/bg3.jpg");
+  background-image: linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)), url("bg3.jpg");
   background-size: cover;
   width: 100%;
   height: auto;
@@ -152,7 +152,7 @@ h2 {
 }
 
 #cetvrtideo {
-  background-image: linear-gradient(rgba(0, 0, 0, 0.3), rgba(0, 0, 0, 0.3)), url("../slike/bg4.jpg");
+  background-image: linear-gradient(rgba(0, 0, 0, 0.3), rgba(0, 0, 0, 0.3)), url("bg4.jpg");
   background-size: cover;
   width: 100%;
   height: auto;
@@ -171,7 +171,7 @@ h2 {
 }
 
 #petideo {
-  background-image: linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)), url("../slike/bg5.jpg");
+  background-image: linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)), url("bg5.jpg");
   background-size: cover;
   width: 100%;
   height: auto;
@@ -200,7 +200,7 @@ h2 {
   opacity: 1;
 }
 footer {
-  background-image: linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)), url("../slike/bg6.jpg");
+  background-image: linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)), url("bg6.jpg");
   background-size: cover;
   width: 100%;
   height: auto;
